@@ -1,6 +1,7 @@
 1. red
 2. yellow 
 3. orange
-4. magenta 
+4. Blue 
 5. beige
 6. 비상비상
+
