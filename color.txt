@@ -1,6 +1,6 @@
 1. red
 2. yellow 
-3. pink
+3. orange
 4. magenta 
 5. beige
 6. testesdfsdf
